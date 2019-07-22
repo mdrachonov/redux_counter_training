@@ -1,1 +1,1 @@
-React-Redux Store
+Redux training counter
